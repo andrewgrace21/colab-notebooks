@@ -1,2 +1,3 @@
-# colab-notebooks
-Google Colab projects from high school
+# Colab Notebooks
+
+Collection of high school coding projects written in Google Colab
